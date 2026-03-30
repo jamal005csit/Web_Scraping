@@ -1,7 +1,3 @@
-This merged README combines your performance data with the technical breakdown of the upgrade. It’s designed to show anyone visiting your GitHub exactly why this "Upgrade" branch is superior to the "Main" version.
-
----
-
 # 🎬 Box Office Mojo Scraper: High-Performance Upgrade
 
 This repository tracks the evolution of a web scraper from a **heavy, browser-driven Selenium script** to a **lightweight, high-performance engine** using `Requests` and `BeautifulSoup4`.
